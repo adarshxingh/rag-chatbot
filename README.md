@@ -1,3 +1,4 @@
+This project demonstrates a RAG-based chatbot using FAISS for local vector storage. The system can be extended to scalable vector databases like Endee for production deployment.
 # 🤖 AI Chatbot using RAG (Retrieval-Augmented Generation)
 
 ## 📌 Overview
